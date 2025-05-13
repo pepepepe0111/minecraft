@@ -837,3 +837,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13May2025 04:20:33.310] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-442, y=4, z=-747}
 [13May2025 04:20:39.507] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-734, y=-6, z=-703}
 [13May2025 04:20:39.507] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-726, y=-6, z=-697}
+[13May2025 04:22:39.555] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13May2025 04:23:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Stay dead]
+[13May2025 04:23:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Monster Hunter]
+[13May2025 04:25:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Broken Parts III]
+[13May2025 04:30:32.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Set own game mode to Survival Mode]
