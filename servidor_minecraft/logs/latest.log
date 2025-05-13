@@ -808,3 +808,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13May2025 03:59:38.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Amateur Archaeologist]
 [13May2025 03:59:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Isn't It Iron Pick]
 [13May2025 04:01:13.512] [Server thread/INFO] [Easy NPC/]: Opening menu ad0ddeca-52c9-4f34-a3c2-9d243bfe840b for npc 1d735b84-912b-45f6-a0a6-6db54c591a76 and player ServerPlayer['cssarrr'/1830, l='ServerLevel[world]', x=134.97, y=81.00, z=53.77] with DialogMenuHandler{displayName=literal{Peter Pan}[style={color=#FFFFFF}]}
+[13May2025 04:01:45.957] [Server thread/INFO] [Easy NPC/]: Opening menu 497fc039-5af2-4ef0-83fc-e6d20ac3a36c for npc 932860ab-70c7-480b-8e32-1325751937a3 and player ServerPlayer['cssarrr'/1830, l='ServerLevel[world]', x=98.90, y=84.00, z=76.67] with DialogMenuHandler{displayName=literal{Serena}[style={color=#FFFFFF}]}
+[13May2025 04:01:53.657] [Server thread/INFO] [Easy NPC/]: Opening menu 5fa02c5f-0dd9-4f6f-aa53-e9e1a5f387c5 for npc 8286f255-629a-4303-819c-f1b838e6d8f1 and player ServerPlayer['cssarrr'/1830, l='ServerLevel[world]', x=113.76, y=84.00, z=85.70] with DialogMenuHandler{displayName=literal{Señora Tasty}[style={color=#FFFFFF}]}
+[13May2025 04:03:43.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=97, z=17} BlockPos{x=183, y=85, z=7}
+[13May2025 04:03:54.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=97, z=17} BlockPos{x=188, y=86, z=3}
+[13May2025 04:03:57.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=97, z=17} BlockPos{x=188, y=86, z=3}
+[13May2025 04:04:14.506] [Server thread/INFO] [Easy NPC/]: Opening menu 01b26aa0-11c8-409c-95e7-a625c3516299 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['cssarrr'/1830, l='ServerLevel[world]', x=186.11, y=85.00, z=1.67] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[13May2025 04:04:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Monster Hunter]
+[13May2025 04:06:15.101] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=473, y=8, z=-27}
+[13May2025 04:06:15.357] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=464, y=-4, z=35}
+[13May2025 04:06:15.357] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=464, y=-4, z=34}
+[13May2025 04:06:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Diamonds!]
+[13May2025 04:11:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Stone Age]
+[13May2025 04:11:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 was killed by cssarrr using magic
+[13May2025 04:11:54.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=86, z=17}
+[13May2025 04:11:54.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=86, z=16}
+[13May2025 04:11:54.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=167, y=86, z=17}
+[13May2025 04:11:54.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=167, y=87, z=17}
+[13May2025 04:12:41.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/2916, l='ServerLevel[world]', x=107.61, y=53.51, z=-181.05] died, message: 'Botanist was slain by Zombie'
+[13May2025 04:15:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Stay dead]
+[13May2025 04:16:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Sweet Dreams]
+[13May2025 04:16:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Sweet Dreams]
+[13May2025 04:18:27.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[13May2025 04:20:15.507] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-379, y=-22, z=-669}
+[13May2025 04:20:21.768] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-367, y=9, z=-701}
+[13May2025 04:20:28.352] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-697, y=-6, z=-703}
+[13May2025 04:20:28.353] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-697, y=-6, z=-699}
+[13May2025 04:20:33.310] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-442, y=4, z=-747}
+[13May2025 04:20:39.507] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-734, y=-6, z=-703}
+[13May2025 04:20:39.507] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-726, y=-6, z=-697}
