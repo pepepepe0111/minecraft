@@ -31,13 +31,13 @@
 	disableAdventureModeCasting = false
 
 ["Upgrade Overrides"]
-	#Whether merging scrolls with ink to upgrade them in the Arcane Anvil is enabled.
-	scrollMerging = true
 	#Use these lists to change what items can interact with the Arcane Anvil's upgrade system. This can also be done via datapack.
 	#Upgrade Whitelist. Use an item's id to allow it to be upgraded, ex: "minecraft:iron_sword"
 	upgradeWhitelist = []
 	#Upgrade Blacklist. Use an item's id to prevent it from being upgraded, ex: "minecraft:iron_sword"
 	upgradeBlacklist = []
+	#Whether merging scrolls with ink to upgrade them in the Arcane Anvil is enabled.
+	scrollMerging = true
 
 ["Imbue Overrides"]
 	#Use these lists to change what items can interact with the Arcane Anvil's imbue system.
@@ -534,12 +534,12 @@
 	[Spells."irons_spellbooks:slow"]
 		Enabled = true
 		School = "irons_spellbooks:evocation"
-		MaxLevel = 4
+		MaxLevel = 6
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "EPIC"
+		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 80.0
+		CooldownInSeconds = 45.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:firecracker"]
@@ -776,17 +776,6 @@
 		CooldownInSeconds = 10.0
 		AllowCrafting = true
 
-	[Spells."irons_spellbooks:cleanse"]
-		Enabled = true
-		School = "irons_spellbooks:holy"
-		MaxLevel = 1
-		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "EPIC"
-		ManaCostMultiplier = 1.0
-		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 60.0
-		AllowCrafting = true
-
 	[Spells."irons_spellbooks:angel_wing"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
@@ -834,23 +823,23 @@
 	[Spells."irons_spellbooks:heal"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
-		MaxLevel = 8
+		MaxLevel = 10
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "UNCOMMON"
+		MinRarity = "COMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 30.0
+		CooldownInSeconds = 25.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:haste"]
 		Enabled = true
 		School = "irons_spellbooks:holy"
-		MaxLevel = 4
+		MaxLevel = 6
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "EPIC"
+		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 80.0
+		CooldownInSeconds = 45.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:wisp"]
@@ -1117,5 +1106,16 @@
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 20.0
+		AllowCrafting = true
+
+	[Spells."irons_spellbooks:cleanse"]
+		Enabled = true
+		School = "irons_spellbooks:holy"
+		MaxLevel = 1
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "EPIC"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 60.0
 		AllowCrafting = true
 
