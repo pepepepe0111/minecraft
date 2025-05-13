@@ -842,3 +842,202 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13May2025 04:23:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Monster Hunter]
 [13May2025 04:25:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Broken Parts III]
 [13May2025 04:30:32.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Set own game mode to Survival Mode]
+[13May2025 04:31:46.669] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13May2025 04:31:46.670] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13May2025 04:31:49.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13May2025 04:32:14.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Gravedigger]
+[13May2025 04:32:28.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Gravedigger]
+[13May2025 04:32:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Created new objective [vida]]
+[13May2025 04:33:11.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Set display slot list to show objective vida]
+[13May2025 04:34:30.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [How long's this been here?]
+[13May2025 04:34:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Magery]
+[13May2025 04:34:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Blade MoveSets]
+[13May2025 04:34:59.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Forbidden Fruit]
+[13May2025 04:36:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> ola
+[13May2025 04:36:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Sweet Dreams]
+[13May2025 04:36:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> chao
+[13May2025 04:36:55.923] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.924] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.925] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.925] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.926] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.926] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.926] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.927] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:55.927] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.017] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.018] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:36:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> culo con caca
+[13May2025 04:36:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> puta
+[13May2025 04:37:02.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> duerme mrd
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.411] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.414] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:37:28.414] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:38:29.643] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13May2025 04:38:29.643] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13May2025 04:40:16.945] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:42:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Proud Soul]
+[13May2025 04:42:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> ven guayllas
+[13May2025 04:42:14.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> zzzz
+[13May2025 04:42:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> 0 camas
+[13May2025 04:42:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> yo 100 mobs
+[13May2025 04:42:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Tiny Proud Soul]
+[13May2025 04:42:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Slash Blade]
+[13May2025 04:42:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki was caught by Necromancer's fangs
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.092] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.092] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:08.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:13.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.463] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.464] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:43:14.465] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13May2025 04:44:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Monster Hunter]
+[13May2025 04:45:12.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr fell from a high place
+[13May2025 04:45:16.314] [Server thread/INFO] [Easy NPC/]: Opening menu d070046a-011d-4c39-8977-1536ce48a4f4 for npc b612fba4-da66-493a-b785-252f154422d1 and player ServerPlayer['TheDislaiki'/590, l='ServerLevel[world]', x=169.49, y=80.00, z=-3.85] with DialogMenuHandler{displayName=literal{Ken}[style={color=#FFFFFF}]}
+[13May2025 04:45:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> guayas tp a rivas
+[13May2025 04:45:43.569] [Server thread/INFO] [Easy NPC/]: Opening menu c14c06c9-2647-4e0d-843a-98b64185390f for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['TheDislaiki'/590, l='ServerLevel[world]', x=184.38, y=84.00, z=2.15] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[13May2025 04:45:46.560] [Server thread/INFO] [Easy NPC/]: Opening menu ee57a9f1-8f39-43c5-94da-e7e03c3a482a for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['TheDislaiki'/590, l='ServerLevel[world]', x=184.38, y=84.00, z=2.15] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[13May2025 04:46:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> se legal
+[13May2025 04:46:25.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> estoy a 3mil bloques de mi muerte
+[13May2025 04:46:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> :(
+[13May2025 04:46:35.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> una vez
+[13May2025 04:46:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> pipipi
+[13May2025 04:47:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 disturbed the avatar of Ah Puch, the Lord of Death and Darkness
+[13May2025 04:47:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> rivas q chch hiciste
+[13May2025 04:47:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 was killed by magic
+[13May2025 04:47:51.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> xdddd
+[13May2025 04:47:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> xd
+[13May2025 04:48:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> ven guayllas
+[13May2025 04:48:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> estamos en la aldea de alado
+[13May2025 04:48:31.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Cherry Picker]
+[13May2025 04:49:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> mmvrg ven
+[13May2025 04:50:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> entra discord vrg
+[13May2025 04:50:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr fell from a high place
+[13May2025 04:51:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 fell from a high place
+[13May2025 04:51:34.696] [Server thread/INFO] [Easy NPC/]: Opening menu fb2c3eae-21ff-45c6-acc4-6d9256327f03 for npc 36509362-507a-48bc-a0f4-1c5c93c2fc15 and player ServerPlayer['TheDislaiki'/590, l='ServerLevel[world]', x=114.40, y=80.00, z=45.90] with DialogMenuHandler{displayName=literal{Fiona}[style={color=#FFFFFF}]}
+[13May2025 04:51:43.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> cual dc

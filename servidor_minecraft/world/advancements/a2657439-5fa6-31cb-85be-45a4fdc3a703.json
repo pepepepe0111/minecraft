@@ -396,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-05-13 03:56:31 +0000"
@@ -411,6 +417,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-13 03:55:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -551,13 +563,20 @@
       "minecraft:skeleton": "2025-05-13 04:25:53 +0000",
       "minecraft:spider": "2025-05-13 04:23:47 +0000",
       "minecraft:enderman": "2025-05-13 04:26:06 +0000",
-      "minecraft:zombie": "2025-05-13 04:23:43 +0000"
+      "minecraft:zombie": "2025-05-13 04:23:43 +0000",
+      "minecraft:zombie_villager": "2025-05-13 04:40:03 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 03:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -801,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-05-13 03:56:31 +0000"
@@ -877,6 +902,12 @@
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-05-13 03:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -1108,9 +1139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-05-13 03:47:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -1177,6 +1220,12 @@
   "fairylights:recipes/fairylights/flower_light": {
     "criteria": {
       "has_iron": "2025-05-13 03:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -1253,6 +1302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-13 03:49:31 +0000"
@@ -1268,6 +1323,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-13 03:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
     },
     "done": true
   },
@@ -1739,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-05-13 03:47:04 +0000"
@@ -2196,6 +2269,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-13 04:32:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 03:56:31 +0000"
@@ -2223,6 +2302,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-05-13 03:56:31 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-13 04:34:00 +0000"
     },
     "done": true
   },
@@ -2402,7 +2487,10 @@
       "scrubland": "2025-05-13 03:55:24 +0000",
       "jacaranda_glade": "2025-05-13 04:26:22 +0000",
       "old_growth_woodland": "2025-05-13 04:02:05 +0000",
-      "orchard": "2025-05-13 04:23:47 +0000"
+      "orchard": "2025-05-13 04:23:47 +0000",
+      "redwood_forest": "2025-05-13 04:31:53 +0000",
+      "prairie": "2025-05-13 04:28:46 +0000",
+      "rainforest": "2025-05-13 04:38:48 +0000"
     },
     "done": false
   },
@@ -2505,6 +2593,12 @@
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:46:56 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-05-13 04:27:47 +0000"
     },
     "done": true
   },
@@ -3240,9 +3334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-13 04:44:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-05-13 03:49:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-13 04:34:32 +0000"
     },
     "done": true
   },
@@ -3285,6 +3391,12 @@
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-05-13 03:49:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-05-13 04:34:30 +0000"
     },
     "done": true
   },
@@ -3366,6 +3478,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "xibalba": "2025-05-13 04:46:30 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/oak_side_table": {
     "criteria": {
       "has_oak_side_table": "2025-05-13 03:49:31 +0000"
@@ -3406,11 +3524,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-13 04:12:35 +0000",
       "minecraft:deep_ocean": "2025-05-13 04:21:09 +0000",
+      "minecraft:birch_forest": "2025-05-13 04:35:46 +0000",
       "minecraft:savanna_plateau": "2025-05-13 03:54:46 +0000",
+      "minecraft:beach": "2025-05-13 04:32:18 +0000",
       "minecraft:stony_peaks": "2025-05-13 04:12:52 +0000",
+      "minecraft:sparse_jungle": "2025-05-13 04:41:58 +0000",
       "minecraft:lukewarm_ocean": "2025-05-13 04:19:11 +0000",
       "minecraft:river": "2025-05-13 04:04:58 +0000",
       "minecraft:forest": "2025-05-13 04:00:11 +0000",
+      "minecraft:jungle": "2025-05-13 04:35:47 +0000",
       "minecraft:ocean": "2025-05-13 04:22:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-13 04:19:21 +0000",
       "minecraft:flower_forest": "2025-05-13 03:43:02 +0000",
