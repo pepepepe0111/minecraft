@@ -5496,3 +5496,54 @@ java.lang.IllegalStateException: Must be 64 pixels high
 [14May2025 05:08:17.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk joined the game
 [14May2025 05:08:17.281] [Server thread/INFO] [Jade/]: Syncing config to r3velk (885d6688-4b02-3af3-9aaf-5ec7d9369b4e)
 [14May2025 05:08:18.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Fruits of the Field]
+[14May2025 05:08:49.547] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 34 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@16ecb89e
+[14May2025 05:09:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Blade MoveSets]
+[14May2025 05:09:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Tiny Proud Soul]
+[14May2025 05:09:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Slash Blade]
+[14May2025 05:09:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Tiny Proud Soul]
+[14May2025 05:09:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Slash Blade]
+[14May2025 05:09:19.129] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 1 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@7bc7f05f
+[14May2025 05:09:22.138] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 36 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@3fd675a7
+[14May2025 05:09:25.652] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 2 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@695e3646
+[14May2025 05:09:29.616] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 3 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@6f46adbd
+[14May2025 05:09:35.418] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 38 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@215a1c1a
+[14May2025 05:09:36.123] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Puerco'/707, l='ServerLevel[world]', x=181.50, y=87.00, z=40.50] with [net.minecraft.world.item.trading.MerchantOffer@6a122cff, net.minecraft.world.item.trading.MerchantOffer@2a904c86, net.minecraft.world.item.trading.MerchantOffer@4947d6a8, net.minecraft.world.item.trading.MerchantOffer@2979d58b, net.minecraft.world.item.trading.MerchantOffer@52f7718f, net.minecraft.world.item.trading.MerchantOffer@7aabe32b, net.minecraft.world.item.trading.MerchantOffer@d2e8840, net.minecraft.world.item.trading.MerchantOffer@6a1cd1e3, net.minecraft.world.item.trading.MerchantOffer@30ebe26, net.minecraft.world.item.trading.MerchantOffer@2699a7d7, net.minecraft.world.item.trading.MerchantOffer@5f8c57cc, net.minecraft.world.item.trading.MerchantOffer@53131617] from ServerPlayer['cssarrr'/1267, l='ServerLevel[world]', x=182.12, y=87.00, z=43.18], ServerPlayer['r3velk'/9808, l='ServerLevel[world]', x=180.96, y=87.00, z=43.18] is still trading.
+[14May2025 05:09:38.218] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 39 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@56437f2c
+[14May2025 05:09:44.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:09:44.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:10:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Acquire Hardware]
+[14May2025 05:10:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Isn't It Iron Pick]
+[14May2025 05:10:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Amateur Archaeologist]
+[14May2025 05:10:41.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Suit Up]
+[14May2025 05:10:48.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [A Seedy Place]
+[14May2025 05:10:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3velk> meco el que lee
+[14May2025 05:11:07.352] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 7 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@334ffe12
+[14May2025 05:11:15.114] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 8 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@17b63e3d
+[14May2025 05:11:17.651] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 41 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@71456234
+[14May2025 05:11:18.563] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 9 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@34057324
+[14May2025 05:11:23.682] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[14May2025 05:11:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Proud Soul]
+[14May2025 05:11:47.514] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 15 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@57cf344c
+[14May2025 05:12:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Crops of the Wild]
+[14May2025 05:12:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [A Fool's Folly]
+[14May2025 05:13:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Best Friends Forever]
+[14May2025 05:13:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Hunt and Gather]
+[14May2025 05:13:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Proud Soul]
+[14May2025 05:13:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Stone Age]
+[14May2025 05:14:16.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Tiny Proud Soul]
+[14May2025 05:14:16.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Slash Blade]
+[14May2025 05:14:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Wild Crops]
+[14May2025 05:14:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Proud Soul]
+[14May2025 05:14:44.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:14:44.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:16:46.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Isn't It Iron Pick]
+[14May2025 05:17:03.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.286384796681034
+[14May2025 05:17:03.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.5675942231954958
+[14May2025 05:17:03.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.868664954626567
+[14May2025 05:17:03.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 1.17504602710861
+[14May2025 05:17:25.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.340679002063041
+[14May2025 05:17:25.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.46512513196086047
+[14May2025 05:17:25.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 0.7720395634960369
+[14May2025 05:17:25.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of r3velk) moved wrongly! 1.1322092966723574
+[14May2025 05:17:52.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> [name:"Muerte 23:47:47 05-12-2025", x:-3067, y:50, z:-1963, dim:minecraft:overworld]
+[14May2025 05:18:49.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind

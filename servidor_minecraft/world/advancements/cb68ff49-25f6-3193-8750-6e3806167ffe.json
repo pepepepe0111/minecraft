@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-05-14 05:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-14 04:58:34 +0000"
@@ -257,6 +263,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-14 05:08:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-05-14 04:59:48 +0000"
@@ -308,6 +320,12 @@
   "farmersdelight:recipes/decorations/black_canvas_sign": {
     "criteria": {
       "has_canvas_sign": "2025-05-14 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-05-14 05:08:17 +0000"
     },
     "done": true
   },
@@ -383,6 +401,12 @@
     },
     "done": true
   },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-05-14 05:09:06 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-05-14 04:50:16 +0000"
@@ -398,6 +422,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-14 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-14 05:12:07 +0000"
     },
     "done": true
   },
@@ -483,7 +513,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-05-14 05:01:37 +0000"
+      "apple": "2025-05-14 05:01:37 +0000",
+      "bread": "2025-05-14 05:10:06 +0000"
     },
     "done": false
   },
