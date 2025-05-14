@@ -1,11 +1,4 @@
 
-# Recipe related properties
-[recipes]
-	# If enabled, the Frying Pan and Grill will inherit all the cooking recipes from the
-	# vanilla Campfire.
-	# Valid values: true, false
-	inheritCampfireRecipes = true
-
 # Toilet related properties
 [toilet]
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
@@ -31,15 +24,6 @@
 	# capacity.
 	# Valid values: true, false
 	dispenseWater = true
-
-# Trampoline related properties
-[trampoline]
-	# The maximum height that can be achieved from bouncing on the trampoline. The maximum
-	# height is affected the shape of the trampoline, the center trampoline in a 3x3 will
-	# be able to reach the maximum bounce height, while a single trampoline will only reach
-	# half.
-	# Valid range: 0 to 64 (inclusive)
-	maxBounceHeight = 8.0
 
 # Electricity related properties
 [electricity]
@@ -80,6 +64,15 @@
 		# expected. Use at your own risk of a downgraded experience.
 		# Valid values: true, false
 		everythingIsPowered = false
+
+# Trampoline related properties
+[trampoline]
+	# The maximum height that can be achieved from bouncing on the trampoline. The maximum
+	# height is affected the shape of the trampoline, the center trampoline in a 3x3 will
+	# be able to reach the maximum bounce height, while a single trampoline will only reach
+	# half.
+	# Valid range: 0 to 64 (inclusive)
+	maxBounceHeight = 8.0
 
 # Basin related properties
 [basin]
@@ -158,4 +151,11 @@
 	# The amount of time in ticks that it takes to perform one cycle of recycling
 	# Valid range: 1 to 2147483647 (inclusive)
 	processingTime = 10
+
+# Recipe related properties
+[recipes]
+	# If enabled, the Frying Pan and Grill will inherit all the cooking recipes from the
+	# vanilla Campfire.
+	# Valid values: true, false
+	inheritCampfireRecipes = true
 

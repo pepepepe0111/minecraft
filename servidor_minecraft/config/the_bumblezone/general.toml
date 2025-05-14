@@ -136,12 +136,6 @@
 	# 
 	#-----------------------------------------------------
 	#
-	# Allow Bee Queen to pick up items off ground to do trading.
-	#
-	beeQueenGroundPickup = true
-	# 
-	#-----------------------------------------------------
-	#
 	# Whether the Crystalline Flower block will eat any item entity that touches the block's collision box in the world
 	#
 	crystallineFlowerConsumeItemEntities = true
@@ -189,6 +183,12 @@
 	#
 	#Range: -5 ~ 5
 	crystallineFlowerExtraTierCost = 0
+	# 
+	#-----------------------------------------------------
+	#
+	# Allow Bee Queen to pick up items off ground to do trading.
+	#
+	beeQueenGroundPickup = true
 
 ["Music Disc Options"]
 	# 
@@ -302,12 +302,6 @@
 	# 
 	#-----------------------------------------------------
 	#
-	# Whether the Blue Arena in Sempiternal Sanctum has the moving bubble block mechanic.
-	#
-	blueArenaBubblesMechanic = true
-	# 
-	#-----------------------------------------------------
-	#
 	# How much max health Cosmic Crystal entity has. (For Continuity Essence event)
 	#
 	#Range: 1 ~ 1000000
@@ -403,4 +397,10 @@
 	#
 	#Range: 0 ~ 1000000
 	continuityEssenceCooldown = 48000
+	# 
+	#-----------------------------------------------------
+	#
+	# Whether the Blue Arena in Sempiternal Sanctum has the moving bubble block mechanic.
+	#
+	blueArenaBubblesMechanic = true
 
