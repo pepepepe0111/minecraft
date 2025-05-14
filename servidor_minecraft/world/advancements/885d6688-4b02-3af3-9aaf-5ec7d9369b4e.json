@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 05:47:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-14 05:23:57 +0000"
@@ -989,6 +995,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-14 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 05:50:16 +0000"
     },
     "done": true
   },
@@ -2181,6 +2193,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 05:47:02 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_torch": "2025-05-14 05:12:17 +0000"
@@ -2304,6 +2322,12 @@
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-05-14 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 05:47:02 +0000"
     },
     "done": true
   },
@@ -2658,6 +2682,18 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_white_wool": "2025-05-14 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 05:50:33 +0000"
     },
     "done": true
   },
@@ -3910,6 +3946,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-05-14 05:16:19 +0000",
       "minecraft:river": "2025-05-14 05:19:38 +0000",
+      "minecraft:stony_shore": "2025-05-14 05:55:00 +0000",
       "minecraft:forest": "2025-05-14 05:16:57 +0000",
       "minecraft:deep_dark": "2025-05-14 05:33:07 +0000",
       "minecraft:meadow": "2025-05-14 05:16:17 +0000",
@@ -4052,6 +4089,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-14 05:23:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 05:50:16 +0000"
     },
     "done": true
   },
