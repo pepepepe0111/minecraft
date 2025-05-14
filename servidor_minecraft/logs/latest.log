@@ -957,3 +957,31 @@ java.lang.IllegalStateException: Must be 64 pixels high
 [14May2025 05:29:02.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Knowledge of Death]
 [14May2025 05:29:02.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Ashes 'n Bones]
 [14May2025 05:29:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Where Is The Stone Pen?]
+[14May2025 05:32:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Monster Hunter]
+[14May2025 05:32:27.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Not Today, Thank You]
+[14May2025 05:33:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Stone Age]
+[14May2025 05:33:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Diamonds!]
+[14May2025 05:33:46.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Sneak 100]
+[14May2025 05:33:50.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Chest Slayer]
+[14May2025 05:34:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Sneak 100]
+[14May2025 05:36:05.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3velk moved wrongly!
+[14May2025 05:36:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Set own game mode to Creative Mode]
+[14May2025 05:36:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Teleported TheDislaiki to cssarrr]
+[14May2025 05:37:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Alex's Caves]
+[14May2025 05:37:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Once Upon a Cave]
+[14May2025 05:38:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [It Belongs in a Museum]
+[14May2025 05:38:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Sneak 100]
+[14May2025 05:38:13.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Teleported TheDislaiki to -80.500000, 79.000000, 27.500000]
+[14May2025 05:38:22.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheDislaiki: Set own game mode to Survival Mode]
+[14May2025 05:38:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Getting an Upgrade]
+[14May2025 05:39:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Isn't It Iron Pick]
+[14May2025 05:41:54.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3velk has made the advancement [Alex's Caves]
+[14May2025 05:44:31.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Diamonds!]
+[14May2025 05:44:47.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 was blown up by Creeper
+[14May2025 05:44:47.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Your First Grave]
+[14May2025 05:44:47.578] [Server thread/INFO] [tombstone/]: The player dandorix009 has successfully been saved
+[14May2025 05:46:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has reached the goal [Here They Come]
+[14May2025 05:48:00.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14May2025 05:48:55.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14May2025 05:49:01.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Getting an Upgrade]
+[14May2025 05:49:12.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
