@@ -5329,3 +5329,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [15May2025 02:37:15.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has reached the goal [Quaint Scribe]
 [15May2025 02:37:38.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 02:37:38.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 02:41:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Crops of the Wild]
+[15May2025 02:41:34.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[15May2025 02:42:42.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 02:42:42.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 02:46:14.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[15May2025 02:47:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has reached the goal [Plant Food]
+[15May2025 02:47:42.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 02:47:42.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 02:49:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [A Strange Grave Dust]
+[15May2025 02:49:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Left hanging]
