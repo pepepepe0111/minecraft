@@ -1695,7 +1695,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-14 05:11:45 +0000"
+      "bread": "2025-05-14 05:11:45 +0000",
+      "melon_slice": "2025-05-15 03:50:35 +0000"
     },
     "done": false
   },
@@ -3592,6 +3593,7 @@
       "minecraft:skeleton": "2025-05-14 05:25:39 +0000",
       "minecraft:spider": "2025-05-14 05:33:14 +0000",
       "minecraft:creeper": "2025-05-14 05:51:46 +0000",
+      "minecraft:evoker": "2025-05-15 03:54:32 +0000",
       "minecraft:cave_spider": "2025-05-14 06:08:36 +0000",
       "minecraft:zombie": "2025-05-14 05:25:50 +0000",
       "minecraft:drowned": "2025-05-14 05:21:12 +0000"
@@ -5098,6 +5100,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-15 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-15 03:49:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-15 03:48:08 +0000"
@@ -5110,15 +5124,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-15 03:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-15 03:49:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-15 03:48:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-15 03:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-15 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-15 03:58:12 +0000"
     },
     "done": true
   },
@@ -5131,6 +5175,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-15 03:49:43 +0000"
     },
     "done": true
   },
