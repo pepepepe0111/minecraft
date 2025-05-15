@@ -5339,3 +5339,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [15May2025 02:47:42.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15May2025 02:49:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [A Strange Grave Dust]
 [15May2025 02:49:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Left hanging]
+[15May2025 02:52:42.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 02:52:42.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 02:52:55.913] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=518, y=-12, z=-2073}
+[15May2025 02:52:55.913] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=519, y=-1, z=-2072}
+[15May2025 02:52:55.913] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=521, y=-1, z=-2072}
+[15May2025 02:53:42.479] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=412, y=-34, z=-1991}
+[15May2025 02:53:42.479] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=411, y=-34, z=-1991}
+[15May2025 02:53:59.664] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=743, y=-2, z=-1527}
+[15May2025 02:54:12.107] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=366, y=-27, z=-1762}
+[15May2025 02:54:15.096] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=764, y=35, z=-1442}
+[15May2025 02:56:04.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cssarrr lost connection: Disconnected
+[15May2025 02:56:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr left the game
+[15May2025 02:57:42.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 02:57:42.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
