@@ -5079,3 +5079,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [15May2025 04:10:02.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 04:10:02.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15May2025 04:10:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> [x:959, y:90, z:-2246, dim:minecraft:overworld]
+[15May2025 04:14:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Gravedigger]
+[15May2025 04:15:02.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 04:15:02.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 04:20:02.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 04:20:02.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 04:22:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Forbidden Fruit]

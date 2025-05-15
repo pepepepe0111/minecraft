@@ -126,6 +126,7 @@
       "shrubland": "2025-05-14 04:54:03 +0000",
       "rocky_shrubland": "2025-05-15 03:50:01 +0000",
       "scrubland": "2025-05-14 05:17:04 +0000",
+      "highland": "2025-05-15 04:17:03 +0000",
       "jade_cliffs": "2025-05-14 06:22:03 +0000",
       "clover_patch": "2025-05-15 04:01:44 +0000",
       "old_growth_woodland": "2025-05-14 05:44:51 +0000",
@@ -133,6 +134,7 @@
       "volcano": "2025-05-14 06:04:42 +0000",
       "volcanic_plains": "2025-05-14 06:03:07 +0000",
       "prairie": "2025-05-14 06:21:33 +0000",
+      "grassland": "2025-05-15 04:16:58 +0000",
       "rainforest": "2025-05-14 05:54:55 +0000"
     },
     "done": false
@@ -3301,9 +3303,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
@@ -3319,6 +3339,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-15 04:04:49 +0000"
@@ -3328,6 +3360,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
@@ -3397,6 +3435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
@@ -3433,6 +3477,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "chimes:recipes/decorations/amethyst_chimes": {
     "criteria": {
       "has_planks": "2025-05-15 04:09:38 +0000"
@@ -3454,6 +3504,12 @@
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
@@ -3511,6 +3567,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
@@ -3529,9 +3591,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-15 03:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-15 04:13:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
@@ -3568,6 +3654,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-15 04:14:32 +0000"
     },
     "done": true
   },
@@ -3613,6 +3705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
@@ -3649,6 +3747,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/doorbell": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-15 04:19:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-05-15 04:04:49 +0000"
@@ -3658,6 +3768,18 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-05-15 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-15 04:13:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
@@ -3688,6 +3810,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-15 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-15 04:19:38 +0000"
     },
     "done": true
   },
@@ -3745,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-15 03:49:26 +0000"
@@ -3760,6 +3894,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-15 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-15 04:14:31 +0000"
     },
     "done": true
   },
