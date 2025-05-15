@@ -840,3 +840,71 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [15May2025 01:42:22.114] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 22604 ms
 [15May2025 01:42:22.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (42.818s)! For help, type "help"
 [15May2025 01:42:22.213] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15May2025 02:22:33.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dandorix009[/127.213.183.43:47891] logged in with entity id 1176 at (251.1641697135689, 69.0, -1357.4668133835141)
+[15May2025 02:22:33.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 joined the game
+[15May2025 02:22:33.278] [Server thread/INFO] [Jade/]: Syncing config to dandorix009 (a2657439-5fa6-31cb-85be-45a4fdc3a703)
+[15May2025 02:22:35.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[15May2025 02:22:39.382] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=338, y=13, z=-1353}
+[15May2025 02:22:39.383] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=339, y=13, z=-1353}
+[15May2025 02:22:47.948] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=182, y=8, z=-1478}
+[15May2025 02:22:47.949] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=180, y=8, z=-1478}
+[15May2025 02:22:53.400] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-169, y=-20, z=33}
+[15May2025 02:22:55.271] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=200, y=-7, z=-1487}
+[15May2025 02:22:56.508] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=400, y=23, z=-1260}
+[15May2025 02:22:56.509] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=399, y=23, z=-1260}
+[15May2025 02:23:03.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=151, y=25, z=-1509}
+[15May2025 02:23:12.769] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=70, y=-1, z=-1216}
+[15May2025 02:23:13.499] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=430, y=-19, z=-1233}
+[15May2025 02:23:15.215] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=219, y=-1, z=-1527}
+[15May2025 02:23:17.203] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1420}
+[15May2025 02:23:20.197] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=48, y=3, z=-1195}
+[15May2025 02:23:20.197] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=48, y=3, z=-1196}
+[15May2025 02:24:03.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dandorix009 lost connection: Timed out
+[15May2025 02:24:03.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 left the game
+[15May2025 02:25:17.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dandorix009[/127.213.183.43:55959] logged in with entity id 1854 at (257.4869040006197, 66.0, -1328.046275480926)
+[15May2025 02:25:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 joined the game
+[15May2025 02:25:17.272] [Server thread/INFO] [Jade/]: Syncing config to dandorix009 (a2657439-5fa6-31cb-85be-45a4fdc3a703)
+[15May2025 02:25:34.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2038, l='ServerLevel[world]', x=180.95, y=75.00, z=-1368.05] died, message: 'Nitwit was slain by Zombie'
+[15May2025 02:25:42.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2037, l='ServerLevel[world]', x=182.42, y=74.55, z=-1369.31] died, message: 'Unemployed was slain by Zombie'
+[15May2025 02:26:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Ambush]
+[15May2025 02:26:18.854] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=11, y=34, z=-1441}
+[15May2025 02:26:18.854] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=13, y=34, z=-1441}
+[15May2025 02:27:29.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has reached the goal [Plant Food]
+[15May2025 02:30:11.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Tools of the Trade]
+[15May2025 02:30:55.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1881, l='ServerLevel[world]', x=248.87, y=65.00, z=-1332.99] died, message: 'Nitwit was slain by Zombie'
+[15May2025 02:33:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Ice Bucket Challenge]
+[15May2025 02:33:29.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cssarrr[/127.198.168.171:44993] logged in with entity id 4124 at (786.5519514159591, 103.0, -1975.860783739446)
+[15May2025 02:33:29.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr joined the game
+[15May2025 02:33:29.502] [Server thread/INFO] [Jade/]: Syncing config to cssarrr (cb68ff49-25f6-3193-8750-6e3806167ffe)
+[15May2025 02:33:44.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15May2025 02:33:49.787] [Worker-Main-67/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=768, y=-32, z=-1850}
+[15May2025 02:33:49.787] [Worker-Main-67/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=768, y=-32, z=-1849}
+[15May2025 02:33:49.787] [Worker-Main-67/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=768, y=-32, z=-1848}
+[15May2025 02:33:49.837] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=766, y=-32, z=-1851}
+[15May2025 02:33:51.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> mamabuebo
+[15May2025 02:33:53.928] [Worker-Main-67/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=911, y=-7, z=-2049}
+[15May2025 02:33:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dandorix009> cp
+[15May2025 02:34:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> dc
+[15May2025 02:34:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> dc
+[15May2025 02:34:04.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+[15May2025 02:34:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 was slain by Vex
+[15May2025 02:34:05.995] [Server thread/INFO] [tombstone/]: The player dandorix009 has successfully been saved
+[15May2025 02:34:08.673] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=739, y=-44, z=-2133}
+[15May2025 02:34:08.673] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=741, y=-44, z=-2133}
+[15May2025 02:34:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> xddd
+[15May2025 02:34:36.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[15May2025 02:34:54.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[15May2025 02:34:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> dc
+[15May2025 02:35:01.501] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=233, y=-47, z=-358}
+[15May2025 02:35:09.775] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=236, y=-33, z=-381}
+[15May2025 02:35:09.776] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=236, y=-33, z=-382}
+[15May2025 02:35:12.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[15May2025 02:35:13.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dandorix009 lost connection: Disconnected
+[15May2025 02:35:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 left the game
+[15May2025 02:35:17.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=611, y=35, z=-1755}
+[15May2025 02:35:17.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=611, y=35, z=-1756}
+[15May2025 02:35:20.171] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=543, y=29, z=-2033}
+[15May2025 02:35:42.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Amateur Archaeologist]
+[15May2025 02:36:44.036] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1006, y=-49, z=-2108}
+[15May2025 02:36:44.036] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1006, y=-49, z=-2110}
+[15May2025 02:37:15.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has reached the goal [Quaint Scribe]
