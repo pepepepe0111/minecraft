@@ -55,14 +55,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-15 04:34:57 +0000",
+      "minecraft:sunflower_plains": "2025-05-15 04:44:23 +0000",
       "minecraft:birch_forest": "2025-05-15 04:02:47 +0000",
       "minecraft:savanna_plateau": "2025-05-14 05:23:13 +0000",
+      "minecraft:beach": "2025-05-15 04:39:53 +0000",
       "minecraft:sparse_jungle": "2025-05-14 06:06:16 +0000",
       "minecraft:river": "2025-05-14 06:03:03 +0000",
       "minecraft:stony_shore": "2025-05-14 05:55:55 +0000",
       "minecraft:grove": "2025-05-15 04:05:01 +0000",
       "minecraft:jagged_peaks": "2025-05-15 04:06:33 +0000",
       "minecraft:forest": "2025-05-14 05:17:42 +0000",
+      "minecraft:ocean": "2025-05-15 04:33:28 +0000",
       "minecraft:flower_forest": "2025-05-14 04:52:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-15 04:02:34 +0000",
       "minecraft:deep_dark": "2025-05-14 05:33:37 +0000",
@@ -132,6 +136,7 @@
       "old_growth_woodland": "2025-05-14 05:44:51 +0000",
       "orchard": "2025-05-15 04:28:49 +0000",
       "lavender_forest": "2025-05-15 04:28:42 +0000",
+      "coniferous_forest": "2025-05-15 04:39:52 +0000",
       "redwood_forest": "2025-05-15 04:01:42 +0000",
       "dune_beach": "2025-05-15 04:27:58 +0000",
       "seasonal_forest": "2025-05-15 04:29:47 +0000",
@@ -3381,6 +3386,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-15 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-15 04:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-15 03:55:28 +0000"
@@ -3420,6 +3437,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-15 04:38:17 +0000"
     },
     "done": true
   },
@@ -3486,6 +3509,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-15 04:45:16 +0000"
     },
     "done": true
   },
@@ -3627,6 +3656,18 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-05-15 04:32:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-15 04:45:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-05-15 03:54:52 +0000"
@@ -3638,6 +3679,12 @@
       "coded_trigger": "2025-05-15 03:59:52 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "ortholance": "2025-05-15 04:36:32 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
@@ -3663,6 +3710,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-15 04:36:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-15 04:14:32 +0000"
@@ -3672,6 +3725,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-15 04:36:32 +0000"
     },
     "done": true
   },
@@ -3693,9 +3752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-15 04:36:32 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-05-15 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-15 04:45:16 +0000"
     },
     "done": true
   },
