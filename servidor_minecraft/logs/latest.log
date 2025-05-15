@@ -865,3 +865,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [15May2025 04:10:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cssarrr> [x:959, y:90, z:-2246, dim:minecraft:overworld]
 [15May2025 04:14:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Gravedigger]
 [15May2025 04:22:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Forbidden Fruit]
+[15May2025 04:24:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 has made the advancement [Funeral Theft]
+[15May2025 04:26:32.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2123, y=64, z=-1920} BlockPos{x=2123, y=62, z=-1919}
+[15May2025 04:32:10.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has made the advancement [Wild Harvest]
+[15May2025 04:33:09.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind

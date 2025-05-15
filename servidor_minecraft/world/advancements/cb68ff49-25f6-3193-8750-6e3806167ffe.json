@@ -130,9 +130,15 @@
       "jade_cliffs": "2025-05-14 06:22:03 +0000",
       "clover_patch": "2025-05-15 04:01:44 +0000",
       "old_growth_woodland": "2025-05-14 05:44:51 +0000",
+      "orchard": "2025-05-15 04:28:49 +0000",
+      "lavender_forest": "2025-05-15 04:28:42 +0000",
       "redwood_forest": "2025-05-15 04:01:42 +0000",
+      "dune_beach": "2025-05-15 04:27:58 +0000",
+      "seasonal_forest": "2025-05-15 04:29:47 +0000",
       "volcano": "2025-05-14 06:04:42 +0000",
       "volcanic_plains": "2025-05-14 06:03:07 +0000",
+      "lavender_field": "2025-05-15 04:27:28 +0000",
+      "pumpkin_patch": "2025-05-15 04:29:44 +0000",
       "prairie": "2025-05-14 06:21:33 +0000",
       "grassland": "2025-05-15 04:16:58 +0000",
       "rainforest": "2025-05-14 05:54:55 +0000"
@@ -3864,6 +3870,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-15 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-15 04:27:11 +0000"
     },
     "done": true
   },
