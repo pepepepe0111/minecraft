@@ -853,3 +853,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [16May2025 00:12:41.918] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=11, y=34, z=-1441}
 [16May2025 00:12:44.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=69, y=14, z=-1162}
 [16May2025 00:12:44.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=69, y=14, z=-1164}
+[16May2025 00:14:26.121] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1421}
+[16May2025 00:14:26.121] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1422}
+[16May2025 00:15:10.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1219, l='ServerLevel[world]', x=190.03, y=63.00, z=-1346.47] died, message: 'Unemployed was shot by Pillager'
+[16May2025 00:19:18.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1191, l='ServerLevel[world]', x=180.11, y=74.36, z=-1368.76] died, message: 'Unemployed was shot by Pillager'
+[16May2025 00:19:41.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1190, l='ServerLevel[world]', x=165.28, y=77.17, z=-1377.51] died, message: 'Unemployed was shot by Pillager'
+[16May2025 00:24:44.810] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-39, y=0, z=-1237}
+[16May2025 00:24:44.810] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-39, y=0, z=-1235}
