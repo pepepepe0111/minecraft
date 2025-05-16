@@ -1712,6 +1712,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-16 00:23:06 +0000",
       "bread": "2025-05-14 05:11:45 +0000",
       "melon_slice": "2025-05-15 03:50:35 +0000"
     },
