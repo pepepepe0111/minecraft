@@ -879,3 +879,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [16May2025 00:43:32.171] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5728, y=-6, z=-2705}
 [16May2025 00:43:32.172] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5727, y=-6, z=-2705}
 [16May2025 00:45:02.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[16May2025 00:45:31.822] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5704, y=-54, z=-2911}
+[16May2025 00:51:52.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5906, y=-1, z=-2909} BlockPos{x=5906, y=-2, z=-2910}
+[16May2025 00:53:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5951, y=-8, z=-2933} BlockPos{x=5951, y=-8, z=-2932}
+[16May2025 00:53:41.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5953, y=-11, z=-2939} BlockPos{x=5953, y=-12, z=-2938}
+[16May2025 00:53:47.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5952, y=-13, z=-2945} BlockPos{x=5952, y=-13, z=-2944}
