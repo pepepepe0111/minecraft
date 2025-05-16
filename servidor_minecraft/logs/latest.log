@@ -884,3 +884,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [16May2025 00:53:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5951, y=-8, z=-2933} BlockPos{x=5951, y=-8, z=-2932}
 [16May2025 00:53:41.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5953, y=-11, z=-2939} BlockPos{x=5953, y=-12, z=-2938}
 [16May2025 00:53:47.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5952, y=-13, z=-2945} BlockPos{x=5952, y=-13, z=-2944}
+[16May2025 00:55:57.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dandorix009 lost connection: Disconnected
+[16May2025 00:55:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 left the game

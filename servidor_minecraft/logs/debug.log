@@ -5049,3 +5049,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [16May2025 00:53:52.018] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=6135, y=-7, z=-3145}
 [16May2025 00:53:52.018] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=6141, y=-7, z=-3155}
 [16May2025 00:53:52.018] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=6133, y=-7, z=-3156}
+[16May2025 00:55:57.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dandorix009 lost connection: Disconnected
+[16May2025 00:55:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dandorix009 left the game
+[16May2025 00:56:05.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:56:05.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 01:01:05.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 01:01:05.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
