@@ -55,8 +55,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-05-18 02:45:14 +0000",
       "minecraft:beach": "2025-05-18 02:24:43 +0000",
       "minecraft:river": "2025-05-18 01:00:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-18 02:35:33 +0000",
       "minecraft:stony_shore": "2025-05-18 02:10:30 +0000",
       "minecraft:cold_ocean": "2025-05-18 02:22:40 +0000",
       "minecraft:forest": "2025-05-18 01:17:41 +0000",
@@ -1580,7 +1582,9 @@
       "rocky_shrubland": "2025-05-18 00:48:00 +0000",
       "lavender_forest": "2025-05-18 02:04:53 +0000",
       "seasonal_orchard": "2025-05-18 02:27:43 +0000",
+      "dune_beach": "2025-05-18 02:44:07 +0000",
       "seasonal_forest": "2025-05-18 02:30:24 +0000",
+      "lavender_field": "2025-05-18 02:45:24 +0000",
       "pumpkin_patch": "2025-05-18 02:28:08 +0000",
       "prairie": "2025-05-18 00:34:11 +0000"
     },
@@ -1613,6 +1617,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-18 00:38:11 +0000",
+      "cooked_beef": "2025-05-18 02:41:09 +0000",
       "beef": "2025-05-18 02:03:54 +0000",
       "apple": "2025-05-18 00:34:15 +0000",
       "bread": "2025-05-18 00:54:21 +0000",
@@ -4837,9 +4842,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-18 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-05-18 02:32:51 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 02:39:25 +0000"
     },
     "done": true
   },
@@ -4855,15 +4872,93 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/limestone": {
+    "criteria": {
+      "has_shell": "2025-05-18 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-18 02:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-18 02:39:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-18 02:31:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-18 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-18 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-18 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 02:39:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-18 02:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-18 02:40:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-05-18 02:31:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-18 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-18 02:44:34 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-05-18 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 02:39:25 +0000"
     },
     "done": true
   },
