@@ -1669,6 +1669,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-05-18 01:50:31 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2025-05-18 00:54:24 +0000"

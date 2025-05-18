@@ -916,3 +916,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [18May2025 01:41:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo was blown up by Creeper
 [18May2025 01:41:02.606] [Server thread/INFO] [tombstone/]: The player josephsitooo has successfully been saved
 [18May2025 01:41:10.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDislaiki> xd
+[18May2025 01:48:51.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Lorem Ipsum]
+[18May2025 01:50:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has made the advancement [Lorem Ipsum]
+[18May2025 01:50:53.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Timed out
+[18May2025 01:50:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game
+[18May2025 01:56:06.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josephsitooo[/127.154.192.75:55083] logged in with entity id 28825 at (-128.76768351965043, -28.0, 187.5646684357743)
+[18May2025 01:56:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo joined the game
+[18May2025 01:56:06.816] [Server thread/INFO] [Jade/]: Syncing config to josephsitooo (d22b15a7-5916-34b4-95d5-8bd3dcc4a994)
+[18May2025 01:57:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [The Journey Begins]
+[18May2025 01:57:17.879] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -2536 -56 7279 in 6s
+[18May2025 01:57:30.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has made the advancement [The Journey Begins]
