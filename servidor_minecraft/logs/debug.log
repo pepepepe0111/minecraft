@@ -7287,3 +7287,40 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [18May2025 03:07:38.021] [Server thread/INFO] [Jade/]: Syncing config to josephsitooo (d22b15a7-5916-34b4-95d5-8bd3dcc4a994)
 [18May2025 03:08:49.535] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 1 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@6f5762f2
 [18May2025 03:10:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has reached the goal [Heart Of The Storm]
+[18May2025 03:11:02.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr has reached the goal [A Fast Comeback]
+[18May2025 03:12:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has completed the challenge [Abyssal Armor]
+[18May2025 03:12:15.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:12:16.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:12:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has made the advancement [Looks Like Emerald to Me]
+[18May2025 03:13:45.075] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 17 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@13d1273a
+[18May2025 03:17:15.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:17:15.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:17:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Tools of the Trade]
+[18May2025 03:21:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Ice Bucket Challenge]
+[18May2025 03:22:15.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:22:15.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:27:15.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:27:15.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:27:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has made the advancement [Cherry Picker]
+[18May2025 03:27:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Cherry Picker]
+[18May2025 03:27:46.317] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-70, y=-7, z=-277}
+[18May2025 03:27:46.317] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-70, y=-7, z=-276}
+[18May2025 03:31:50.855] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=351, y=-7, z=-375}
+[18May2025 03:32:15.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:32:15.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:35:34.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18May2025 03:35:57.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18May2025 03:35:57.835] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18May2025 03:36:29.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18May2025 03:36:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has reached the goal [Strong or Careful]
+[18May2025 03:36:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo was laid to rest by Priest
+[18May2025 03:36:37.669] [Server thread/DEBUG] [tombstone/]: A new grave of the player josephsitooo was created at position [x:632, y:63, z:-179, dim:minecraft:overworld]
+[18May2025 03:36:37.675] [Server thread/INFO] [tombstone/]: The player josephsitooo has successfully been saved
+[18May2025 03:37:21.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:37:21.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:37:37.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDislaiki lost connection: Disconnected
+[18May2025 03:37:37.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki left the game
+[18May2025 03:39:45.421] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 4 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@6874854b
+[18May2025 03:40:01.891] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 6 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@45603e65
+[18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Disconnected
+[18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game

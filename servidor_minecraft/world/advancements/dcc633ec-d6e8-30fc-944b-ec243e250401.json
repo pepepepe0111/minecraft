@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-18 03:28:13 +0000",
       "minecraft:savanna_plateau": "2025-05-14 05:00:19 +0000",
       "minecraft:stony_peaks": "2025-05-14 05:01:41 +0000",
       "minecraft:river": "2025-05-14 05:27:10 +0000",
@@ -120,7 +121,10 @@
       "woodland": "2025-05-14 05:17:37 +0000",
       "shrubland": "2025-05-14 04:20:43 +0000",
       "rocky_shrubland": "2025-05-18 00:45:09 +0000",
-      "scrubland": "2025-05-14 05:13:30 +0000"
+      "scrubland": "2025-05-14 05:13:30 +0000",
+      "pasture": "2025-05-18 03:30:59 +0000",
+      "lavender_field": "2025-05-18 03:34:46 +0000",
+      "prairie": "2025-05-18 03:33:46 +0000"
     },
     "done": false
   },
@@ -2253,6 +2257,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-18 03:08:53 +0000",
       "wheat": "2025-05-14 05:10:48 +0000",
       "carrot": "2025-05-18 02:44:26 +0000"
     },
@@ -4674,6 +4679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 03:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 00:55:14 +0000"
@@ -4716,6 +4727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-18 03:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-05-18 02:36:27 +0000"
@@ -4728,9 +4745,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 03:21:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-05-18 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-18 03:35:59 +0000"
     },
     "done": true
   },
@@ -4878,6 +4907,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-05-18 03:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-18 02:51:18 +0000"
@@ -4929,6 +4964,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-18 00:36:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-18 03:19:48 +0000"
     },
     "done": true
   },
@@ -5021,6 +5062,12 @@
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-05-18 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-18 03:21:23 +0000"
     },
     "done": true
   },
@@ -5132,6 +5179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 03:15:02 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-18 00:59:56 +0000"
@@ -5210,6 +5263,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-18 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 03:21:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 01:06:48 +0000"
@@ -5234,9 +5299,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-18 03:21:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 01:06:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-18 03:17:35 +0000"
     },
     "done": true
   },
@@ -5312,6 +5389,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-05-18 03:07:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-18 02:00:57 +0000"
@@ -5342,6 +5425,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-05-18 03:35:59 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-05-18 01:32:27 +0000"
@@ -5369,6 +5458,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 01:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-18 03:08:40 +0000"
     },
     "done": true
   },
@@ -5432,6 +5527,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-05-18 03:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-18 01:17:13 +0000"
@@ -5453,6 +5554,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-05-18 00:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-18 03:08:40 +0000"
     },
     "done": true
   },
@@ -5480,6 +5587,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-18 03:19:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-18 00:36:36 +0000"
@@ -5501,6 +5614,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-18 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-05-18 03:27:33 +0000"
     },
     "done": true
   },
@@ -5561,6 +5680,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 01:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 03:21:23 +0000"
     },
     "done": true
   },
