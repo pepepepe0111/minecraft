@@ -926,3 +926,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [18May2025 01:57:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [The Journey Begins]
 [18May2025 01:57:17.879] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -2536 -56 7279 in 6s
 [18May2025 01:57:30.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has made the advancement [The Journey Begins]
+[18May2025 01:59:11.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo moved too quickly! -1.4033986403359222,-2.252203340253722,9.72666659751394
+[18May2025 01:59:33.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo moved too quickly! 6.778244144597892,-2.6815583980583284,-6.989675103965823
+[18May2025 01:59:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <josephsitooo> siiiiiiiiii
+[18May2025 02:01:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDislaiki has made the advancement [Once Upon a Cave]
+[18May2025 02:05:08.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18May2025 02:05:36.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18May2025 02:06:07.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1422}
+[18May2025 02:06:07.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1421}
+[18May2025 02:06:24.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=274, y=20, z=-1759}
