@@ -5849,3 +5849,109 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [18May2025 02:06:07.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1422}
 [18May2025 02:06:07.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=432, y=-35, z=-1421}
 [18May2025 02:06:24.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=274, y=20, z=-1759}
+[18May2025 02:09:45.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -7.862763304685814,-8.526512829121202E-14,6.489447880662908
+[18May2025 02:09:45.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -8.16372621901246,-8.526512829121202E-14,6.737845255679588
+[18May2025 02:09:45.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -8.465442580228,-8.526512829121202E-14,6.986864488365768
+[18May2025 02:09:45.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -8.767837043625605,-8.526512829121202E-14,7.236443392939634
+[18May2025 02:09:45.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -9.070841798970946,-8.526512829121202E-14,7.486526002199128
+[18May2025 02:09:45.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -9.37439581705462,-8.526512829121202E-14,7.7370619456636405
+[18May2025 02:09:45.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -9.678444171589717,-8.526512829121202E-14,7.988005889901842
+[18May2025 02:09:45.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -9.9829374289194,-8.526512829121202E-14,8.239317034826684
+[18May2025 02:09:45.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -10.287831098753486,-8.526512829121202E-14,8.490958660360718
+[18May2025 02:09:45.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -10.593085139832056,-8.526512829121202E-14,8.742897718435188
+[18May2025 02:09:45.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -10.898663515022008,-8.526512829121202E-14,8.995104465788927
+[18May2025 02:09:45.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -11.20453379090452,-8.526512829121202E-14,9.247552133487602
+[18May2025 02:09:46.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715787613204498,0.0,-8.844192552858033
+[18May2025 02:09:46.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.407459971108096,0.0,-8.58971669704249
+[18May2025 02:09:46.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.715711963930517,0.0,-8.844130115701603
+[18May2025 02:09:46.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.407352071355376,0.0,-8.58962764194149
+[18May2025 02:09:46.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 10.098978429892554,0.0,-8.335113820531774
+[18May2025 02:09:46.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 9.790592414431103,0.0,-8.080589786237738
+[18May2025 02:09:46.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 9.482195262371192,0.0,-7.826056560347979
+[18May2025 02:09:46.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 9.173788087372941,0.0,-7.571515062022343
+[18May2025 02:09:47.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! 8.865371891730433,0.0,-7.316966118504581
+[18May2025 02:09:56.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 02:09:57.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 02:09:57.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18May2025 02:10:04.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.273201311785215,0.0,8.963973829285067
+[18May2025 02:10:04.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.4760083978376315,0.0,9.30874777619988
+[18May2025 02:10:04.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.678815301125724,0.0,9.653521848387811
+[18May2025 02:10:04.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.881622039926015,0.0,9.998296033321537
+[18May2025 02:10:04.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.084428630687171,0.0,10.343070319726507
+[18May2025 02:10:04.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.287235088213151,0.0,10.687844697455546
+[18May2025 02:10:04.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.490041425827485,0.0,11.032619157376303
+[18May2025 02:10:04.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.692847655521405,0.0,11.37739369126956
+[18May2025 02:10:04.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.895653788086861,0.0,11.722168291738058
+[18May2025 02:10:04.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -7.098459833236802,0.0,12.066942952124293
+[18May2025 02:10:04.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -7.3012657997127235,0.0,12.411717666436516
+[18May2025 02:10:04.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -7.504071695381981,0.0,12.756492429282105
+[18May2025 02:10:04.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -7.706877527325332,0.0,13.101267235807711
+[18May2025 02:10:24.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.1807540712608215,0.0,9.816380351768203
+[18May2025 02:10:24.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.2990221609668424,0.0,10.197631913886767
+[18May2025 02:10:24.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.418544729641667,0.0,10.578558835087506
+[18May2025 02:10:24.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.53928689395957,0.0,10.95916211939334
+[18May2025 02:10:24.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.6612063279953873,0.0,11.339446265330139
+[18May2025 02:10:24.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.7842612634183297,0.0,11.719416427982082
+[18May2025 02:10:24.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.9084032159829576,0.0,12.099080949863605
+[18May2025 02:10:24.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.033581286484832,0.0,12.478449809104745
+[18May2025 02:10:24.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.15974602323854,0.0,12.857533185565899
+[18May2025 02:10:24.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.286849283844958,0.0,13.236341470466982
+[18May2025 02:10:24.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.414840503769824,0.0,13.614886552828352
+[18May2025 02:10:24.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.543666946007534,0.0,13.993181699492993
+[18May2025 02:10:24.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.6732811351471355,0.0,14.371238813366517
+[18May2025 02:10:24.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.8036367269942275,0.0,14.74906988856344
+[18May2025 02:10:24.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.93468840196897,0.0,15.126687008736894
+[18May2025 02:10:24.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.06639176171268,0.0,15.504102345575689
+[18May2025 02:10:24.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.198703240691316,0.0,15.881328157450866
+[18May2025 02:10:24.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.331583627131408,0.0,16.25837546572029
+[18May2025 02:10:24.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.464994025288092,0.0,16.635255500907874
+[18May2025 02:10:24.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.598899426197818,0.0,17.01197835930907
+[18May2025 02:10:24.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.733264722232548,0.0,17.38855445006766
+[18May2025 02:10:24.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.868058313733968,0.0,17.764993137687384
+[18May2025 02:10:24.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.003248161448482,0.0,18.141304172699506
+[18May2025 02:10:24.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.138805430980028,0.0,18.517496326856644
+[18May2025 02:10:24.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.2747041685788645,0.0,18.89357749473595
+[18May2025 02:10:24.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.410917419103043,0.0,19.269556107659923
+[18May2025 02:10:24.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.547424518762,0.0,19.64543842016485
+[18May2025 02:10:24.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.6204362271259924,0.0,10.586424450281356
+[18May2025 02:10:24.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.757463064330068,0.0,10.962134350157953
+[18May2025 02:10:24.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -3.8947203665071584,0.0,11.337768145206383
+[18May2025 02:10:24.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.032192276033356,0.0,11.713330774878159
+[18May2025 02:10:24.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.169860928005164,0.0,12.088828018333402
+[18May2025 02:10:24.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.307710242147095,0.0,12.464265076816105
+[18May2025 02:10:24.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.445725746211679,0.0,12.839646631445817
+[18May2025 02:10:24.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.583894415176474,0.0,13.214976895229825
+[18May2025 02:10:24.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.722204525590314,0.0,13.590259659874732
+[18May2025 02:10:24.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.860645528210057,0.0,13.965498337916415
+[18May2025 02:10:24.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -4.999204333812031,0.0,14.340697338016184
+[18May2025 02:10:24.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.137872756068987,0.0,14.715859286864656
+[18May2025 02:10:24.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.276643426355349,0.0,15.090986552208733
+[18May2025 02:10:24.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.415506119865654,0.0,15.466082602399638
+[18May2025 02:10:24.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.5544552282491395,0.0,15.841149221574142
+[18May2025 02:10:24.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.693482110016475,0.0,16.216189352834704
+[18May2025 02:10:24.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.832578987827446,0.0,16.59120564497323
+[18May2025 02:10:24.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -5.971742455118488,0.0,16.96619914079804
+[18May2025 02:10:24.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.1109658529398985,0.0,17.341172119941007
+[18May2025 02:10:24.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.250243188237391,0.0,17.71612663407086
+[18May2025 02:10:24.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of josephsitooo) moved too quickly! -6.389572660304452,0.0,18.091063188584826
+[18May2025 02:11:21.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18May2025 02:11:53.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Timed out
+[18May2025 02:11:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game
+[18May2025 02:11:54.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18May2025 02:12:14.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 38 messages to dispatch.
+[18May2025 02:12:14.620] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[18May2025 02:12:14.677] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[18May2025 02:12:14.747] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4504b51e[id=<null>,name=josephsitooo,properties={},legacy=false] (/127.154.192.75:53109) lost connection: Disconnected
+[18May2025 02:15:01.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 02:15:01.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
