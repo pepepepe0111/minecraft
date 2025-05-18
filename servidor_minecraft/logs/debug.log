@@ -7324,3 +7324,7 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [18May2025 03:40:01.891] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 6 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@45603e65
 [18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Disconnected
 [18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game
+[18May2025 03:42:21.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:42:21.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:47:21.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:47:21.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
