@@ -1519,3 +1519,21 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [18May2025 02:59:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has reached the goal [Quaint Scribe]
 [18May2025 03:00:06.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
 [18May2025 03:00:24.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[18May2025 03:00:43.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[18May2025 03:01:01.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[18May2025 03:01:20.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
+[18May2025 03:01:38.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
+[18May2025 03:01:55.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[18May2025 03:02:14.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[18May2025 03:02:31.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18May2025 03:02:49.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[18May2025 03:02:54.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo moved too quickly! -7.492307492474083,0.2192414460647285,7.089280631362527
+[18May2025 03:03:06.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[18May2025 03:03:24.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[18May2025 03:04:39.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Timed out
+[18May2025 03:04:39.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game
+[18May2025 03:07:37.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josephsitooo[/127.154.192.75:33615] logged in with entity id 76603 at (342.1543993120395, 69.0, -19.26869912490597)
+[18May2025 03:07:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo joined the game
+[18May2025 03:07:38.021] [Server thread/INFO] [Jade/]: Syncing config to josephsitooo (d22b15a7-5916-34b4-95d5-8bd3dcc4a994)
+[18May2025 03:08:49.535] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 1 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@6f5762f2
+[18May2025 03:10:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo has reached the goal [Heart Of The Storm]

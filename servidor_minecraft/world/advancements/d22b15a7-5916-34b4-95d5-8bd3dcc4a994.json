@@ -1587,6 +1587,7 @@
       "seasonal_orchard": "2025-05-18 02:27:43 +0000",
       "dune_beach": "2025-05-18 02:44:07 +0000",
       "seasonal_forest": "2025-05-18 02:30:24 +0000",
+      "pasture": "2025-05-18 02:56:55 +0000",
       "lavender_field": "2025-05-18 02:45:24 +0000",
       "fir_clearing": "2025-05-18 02:48:09 +0000",
       "pumpkin_patch": "2025-05-18 02:28:08 +0000",
@@ -4884,6 +4885,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-18 02:59:54 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/limestone": {
     "criteria": {
       "has_shell": "2025-05-18 02:40:56 +0000"
@@ -4911,6 +4918,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-18 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-18 02:59:54 +0000"
     },
     "done": true
   },
@@ -4956,9 +4969,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-18 02:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-18 02:40:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-18 02:59:54 +0000"
     },
     "done": true
   },
@@ -4968,9 +4993,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-18 02:57:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-05-18 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-18 02:57:04 +0000"
     },
     "done": true
   },
