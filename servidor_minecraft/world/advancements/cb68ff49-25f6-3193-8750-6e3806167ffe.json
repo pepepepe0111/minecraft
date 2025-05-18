@@ -67,6 +67,7 @@
       "minecraft:swamp": "2025-05-15 05:23:10 +0000",
       "minecraft:jagged_peaks": "2025-05-15 04:06:33 +0000",
       "minecraft:forest": "2025-05-14 05:17:42 +0000",
+      "minecraft:desert": "2025-05-18 01:39:51 +0000",
       "minecraft:ocean": "2025-05-15 04:33:28 +0000",
       "minecraft:windswept_savanna": "2025-05-15 05:23:07 +0000",
       "minecraft:flower_forest": "2025-05-14 04:52:17 +0000",
@@ -141,6 +142,7 @@
       "orchard": "2025-05-15 04:28:49 +0000",
       "lavender_forest": "2025-05-15 04:28:42 +0000",
       "coniferous_forest": "2025-05-15 04:39:52 +0000",
+      "wasteland": "2025-05-18 01:37:32 +0000",
       "redwood_forest": "2025-05-15 04:01:42 +0000",
       "seasonal_orchard": "2025-05-15 05:17:31 +0000",
       "dune_beach": "2025-05-15 04:27:58 +0000",
@@ -2221,6 +2223,7 @@
       "minecraft:skeleton": "2025-05-14 05:46:00 +0000",
       "minecraft:spider": "2025-05-14 06:00:00 +0000",
       "minecraft:phantom": "2025-05-15 04:00:25 +0000",
+      "minecraft:husk": "2025-05-18 01:38:55 +0000",
       "minecraft:zombie": "2025-05-14 05:23:55 +0000"
     },
     "done": false
