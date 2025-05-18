@@ -1560,3 +1560,5 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [18May2025 03:40:01.891] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 6 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@45603e65
 [18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josephsitooo lost connection: Disconnected
 [18May2025 03:41:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josephsitooo left the game
+[18May2025 04:06:19.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cssarrr lost connection: Disconnected
+[18May2025 04:06:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cssarrr left the game
