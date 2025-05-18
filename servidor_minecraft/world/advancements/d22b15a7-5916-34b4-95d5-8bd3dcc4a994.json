@@ -55,8 +55,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-18 02:24:43 +0000",
       "minecraft:river": "2025-05-18 01:00:24 +0000",
       "minecraft:stony_shore": "2025-05-18 02:10:30 +0000",
+      "minecraft:cold_ocean": "2025-05-18 02:22:40 +0000",
       "minecraft:forest": "2025-05-18 01:17:41 +0000",
       "minecraft:ocean": "2025-05-18 02:09:37 +0000",
       "minecraft:flower_forest": "2025-05-18 00:31:51 +0000",
@@ -4536,9 +4538,117 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-05-18 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-05-18 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-18 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-05-18 02:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-18 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-18 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-18 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-18 02:03:18 +0000"
     },
     "done": true
   },
@@ -4551,18 +4661,6 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 02:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-05-18 02:02:03 +0000"
     },
     "done": true
   },
@@ -4590,39 +4688,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-05-18 01:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 02:09:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-18 02:02:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-18 02:03:18 +0000"
     },
     "done": true
   },
@@ -4638,30 +4706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-18 02:03:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-05-18 02:02:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 02:09:28 +0000"
@@ -4671,30 +4715,6 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 02:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-18 02:03:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-05-18 02:02:03 +0000"
     },
     "done": true
   },
@@ -4740,27 +4760,75 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-18 02:03:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-05-18 02:03:17 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 02:09:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
-      "has_beef": "2025-05-18 02:03:18 +0000"
+      "has_any_ingredient": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-05-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-18 02:23:15 +0000"
     },
     "done": true
   },

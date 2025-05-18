@@ -73,6 +73,7 @@
       "minecraft:desert": "2025-05-18 01:39:51 +0000",
       "minecraft:ocean": "2025-05-15 04:33:28 +0000",
       "minecraft:windswept_savanna": "2025-05-15 05:23:07 +0000",
+      "minecraft:warm_ocean": "2025-05-18 02:16:39 +0000",
       "minecraft:flower_forest": "2025-05-14 04:52:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-15 04:02:34 +0000",
       "minecraft:deep_dark": "2025-05-14 05:33:37 +0000",
@@ -137,6 +138,7 @@
       "rocky_shrubland": "2025-05-15 03:50:01 +0000",
       "scrubland": "2025-05-14 05:17:04 +0000",
       "fungal_jungle": "2025-05-18 01:32:30 +0000",
+      "lush_savanna": "2025-05-18 02:18:01 +0000",
       "highland": "2025-05-15 04:17:03 +0000",
       "marsh": "2025-05-15 05:22:12 +0000",
       "jade_cliffs": "2025-05-14 06:22:03 +0000",
@@ -147,6 +149,7 @@
       "coniferous_forest": "2025-05-15 04:39:52 +0000",
       "dryland": "2025-05-18 02:14:34 +0000",
       "wasteland": "2025-05-18 01:37:32 +0000",
+      "lush_desert": "2025-05-18 02:16:11 +0000",
       "redwood_forest": "2025-05-15 04:01:42 +0000",
       "seasonal_orchard": "2025-05-15 05:17:31 +0000",
       "dune_beach": "2025-05-15 04:27:58 +0000",
@@ -540,6 +543,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-14 06:00:06 +0000",
       "apple": "2025-05-14 05:01:37 +0000",
+      "rabbit": "2025-05-18 02:25:00 +0000",
       "bread": "2025-05-14 05:10:06 +0000",
       "carrot": "2025-05-15 05:14:34 +0000"
     },
@@ -2224,6 +2228,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-18 02:19:11 +0000",
       "minecraft:skeleton": "2025-05-14 05:46:00 +0000",
       "minecraft:spider": "2025-05-14 06:00:00 +0000",
       "minecraft:phantom": "2025-05-15 04:00:25 +0000",
@@ -4356,6 +4361,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-18 02:05:08 +0000"
@@ -4374,9 +4385,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 02:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-18 01:26:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
     },
     "done": true
   },
@@ -4395,6 +4436,18 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-18 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_dead_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
     },
     "done": true
   },
@@ -4446,9 +4499,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-18 02:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-18 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 02:23:43 +0000"
     },
     "done": true
   },
@@ -4464,9 +4541,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-18 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-18 02:23:50 +0000"
     },
     "done": true
   },
