@@ -4878,6 +4878,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-18 02:51:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-05-18 00:56:08 +0000"
@@ -4979,6 +4985,12 @@
       "has_redstone": "2025-05-18 00:56:08 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-05-18 02:51:18 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
